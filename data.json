@@ -2095,6 +2095,13 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+          "name": "Manifest",
+          "link": "https://github.com/mnfst/manifest",
+          "label": "Good First Issue",
+          "technologies": ["TypeScript"],
+          "description": "Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly."
         }
     ]
 }
